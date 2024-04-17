@@ -81,7 +81,7 @@ Features and Functionalities of the Back-end: The back end of StudyNotion provid
 3. Course schema: Includes fields such as course name, description, instructor details, and media content.
 
 Overall, the back-end of StudyNotion is designed to provide a robust and scalable solution for an ed-tech platform, with a focus on security, reliability, and ease of use. By using the right frameworks, libraries, and tools, we can ensure that the platform functions smoothly and provides an optimal user experience for all its users.
-
+![322355592-3c0b0b10-29f3-4341-b1a9-ac4315418cf8](https://github.com/bisenmanshi/studyy_Notion/assets/123573743/4f2b0432-3d6c-403a-b46a-120e53363787)
 
 # API Design
 The StudyNotion platform's API is designed following the REST architectural style. The API is implemented using Node.js and Express.js. It uses JSON for data exchange and follows standard HTTP request methods such as GET, POST, PUT, and DELETE.
